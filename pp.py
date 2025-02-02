@@ -12,7 +12,7 @@ area = length * width
 print("The area is:", area)
 age = 10
 if age >= 10:
-    print("You are 10 or older!")
+    print("You are 10 or Older!")
 else:
     print("You are younger than 10.")
 
